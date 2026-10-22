@@ -49,13 +49,8 @@ I'm a Frontend Developer at MATZ Solutions, passionate about building modern, re
 **CMS & E-Commerce**
 
 <a href="https://wordpress.org/"><img src="https://skillicons.dev/icons?i=wordpress" height="42" alt="WordPress"/></a>
-<a href="https://www.shopify.com/">
-  <img src="https://img.shields.io/badge/-95BF47?style=for-the-badge&logo=shopify&logoColor=white" height="42" alt="Shopify"/>
-</a>
-
-<a href="https://elementor.com/">
-  <img src="https://img.shields.io/badge/-92003B?style=for-the-badge&logo=elementor&logoColor=white" height="42" alt="Elementor"/>
-</a>
+<a href="https://www.shopify.com/"><img src="https://cdn.simpleicons.org/shopify/95BF47" height="42" alt="Shopify"/></a>
+<a href="https://elementor.com/"><img src="https://cdn.simpleicons.org/elementor/92003B" height="42" alt="Elementor"/></a>
 
 **Tools**
 
