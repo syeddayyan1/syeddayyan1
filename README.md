@@ -53,23 +53,6 @@ Tools
 </tr>
 </table>
 
-📊 GitHub Overview
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=071411&title_color=00e5a0&icon_color=00e5a0&text_color=e6edf3&rank_icon=github" alt="GitHub stats"/>
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=071411&title_color=00e5a0&text_color=e6edf3" alt="Top languages"/>
-</a>
-
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=071411&ring=00e5a0&fire=00e5a0&currStreakLabel=00e5a0&sideLabels=e6edf3&dates=9ca3af" alt="GitHub contribution streak"/>
-</a>
-
-</div>
-
 🤝 Let's Connect
 <div align="center">
 
