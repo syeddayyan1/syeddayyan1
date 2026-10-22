@@ -24,7 +24,6 @@ I’m a Frontend Developer at **MATZ Solutions**, passionate about building mode
 
 💼 LinkedIn: Connect with me https://www.linkedin.com/in/syed-dayyan/
 
-💻 GitHub: @syeddayyan1 https://github.com/syeddayyan1
 ---
 
 ⭐ *Thanks for visiting my profile!*
