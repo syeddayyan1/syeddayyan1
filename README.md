@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://github.com/syeddayyan1">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:061b1a,45:063b35,100:00e5a0&text=Frontend%20Developer%20%7C%20React.js%20%E2%80%A2%20Next.js%20%7C%20WordPress%20%26%20Shopify&fontColor=ffffff&fontSize=28&fontAlignY=45&animation=fadeIn" width="100%" alt="Frontend Developer | React.js • Next.js | WordPress & Shopify"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:061b1a,45:063b35,100:00e5a0&text=SYED%20DAYYAN%20NOOR&fontColor=ffffff&fontSize=42&fontAlignY=42&desc=FRONTEND%20DEVELOPER%20%7C%20REACT%20%7C%20NEXT.JS&descAlignY=62&descSize=15&animation=fadeIn" width="100%" alt="Syed Dayyan Noor — Frontend Developer banner"/>
 </a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=700&color=00E5A0&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Syed+Dayyan+Noor+%F0%9F%91%8B;Frontend+Developer+at+MATZ+Solutions;Building+modern+and+responsive+web+experiences;Code+%E2%80%A2+Design+%E2%80%A2+Build+%E2%80%A2+Repeat" alt="Animated introduction"/>
@@ -19,7 +19,7 @@
 <tr>
 <td width="52%" valign="top">
 
-<br/>
+<br/><br/>
 
 ## 👨‍💻 About Me
 
@@ -34,7 +34,7 @@ I'm a Frontend Developer at MATZ Solutions, passionate about building modern, re
 </td>
 <td width="48%" valign="top">
 
-<br/>
+<br/><br/>
 
 ## ⚡ Tech Stack
 
@@ -50,8 +50,8 @@ I'm a Frontend Developer at MATZ Solutions, passionate about building modern, re
 **CMS & E-Commerce**
 
 <a href="https://wordpress.org/"><img src="https://skillicons.dev/icons?i=wordpress" height="42" alt="WordPress"/></a>
-<a href="https://www.shopify.com/"><img src="https://skillicons.dev/icons?i=shopify" height="42" alt="Shopify"/></a>
-<a href="https://elementor.com/"><img src="https://skillicons.dev/icons?i=elementor" height="42" alt="Elementor"/></a>
+<a href="https://www.shopify.com/"><img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" height="42" alt="Shopify"/></a>
+<a href="https://elementor.com/"><img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" height="42" alt="Elementor"/></a>
 
 **Tools**
 
