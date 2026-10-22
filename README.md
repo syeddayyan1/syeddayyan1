@@ -20,17 +20,10 @@ I’m a Frontend Developer at **MATZ Solutions**, passionate about building mode
 
 **Tools:** Git, GitHub, VS Code
 
-### 📌 Featured Projects
-
-- **Attendance System** — QR-based employee attendance with location verification.
-- **Next.js E-Commerce** — E-commerce project using Next.js, React, Axios, and TanStack Query.
-- **Next.js Product Filtering** — Dynamic product filtering and product details.
-
 ### 🤝 Let's Connect
 
-- 💼 LinkedIn: [Connect with me]([https://www.linkedin.com/](https://www.linkedin.com/in/syed-dayyan/))
-- 💻 GitHub: [@syeddayyan1]([https://github.com/syeddayyan1](https://github.com/syeddayyan1))
-
+💼 LinkedIn: Connect with me: https://www.linkedin.com/in/syed-dayyan/
+💻 GitHub: @syeddayyan1: https://github.com/syeddayyan1
 ---
 
 ⭐ *Thanks for visiting my profile!*
