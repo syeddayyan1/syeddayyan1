@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=210&section=header&color=0:061b1a,45:063b35,100:00e5a0&text=SYED%20DAYYAN%20NOOR&fontColor=ffffff&fontSize=42&fontAlignY=42&desc=REACT%20%7C%20NEXT.JS%20%7C%20WORDPRESS&descAlignY=64&descSize=15&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=210&section=header&color=0:e8fff7,45:c8f7e8,100:8cebc9&text=SYED%20DAYYAN%20NOOR&fontColor=111827&fontSize=42&fontAlignY=42&desc=REACT%20%7C%20NEXT.JS%20%7C%20WORDPRESS&descAlignY=64&descSize=15&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=210&section=header&color=0:e8fff7,45:c8f7e8,100:8cebc9&text=SYED%20DAYYAN%20NOOR&fontColor=111827&fontSize=42&fontAlignY=42&desc=REACT%20%7C%20NEXT.JS%20%7C%20WORDPRESS&descAlignY=64&descSize=15&animation=fadeIn" width="100%" alt="Syed Dayyan Noor — Frontend Developer banner"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=210&section=header&color=0:061b1a,45:063b35,100:00e5a0&text=SYED%20DAYYAN%20NOOR&fontColor=ffffff&fontSize=42&fontAlignY=42&desc=FRONTEND%20DEVELOPER%20%7C%20REACT%20%7C%20NEXT.JS&descAlignY=64&descSize=15&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=210&section=header&color=0:e8fff7,45:c8f7e8,100:8cebc9&text=SYED%20DAYYAN%20NOOR&fontColor=111827&fontSize=42&fontAlignY=42&desc=FRONTEND%20DEVELOPER%20%7C%20REACT%20%7C%20NEXT.JS&descAlignY=64&descSize=15&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=210&section=header&color=0:e8fff7,45:c8f7e8,100:8cebc9&text=SYED%20DAYYAN%20NOOR&fontColor=111827&fontSize=42&fontAlignY=42&desc=FRONTEND%20DEVELOPER%20%7C%20REACT%20%7C%20NEXT.JS&descAlignY=64&descSize=15&animation=fadeIn" width="100%" alt="Syed Dayyan Noor — Frontend Developer banner"/>
 </picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=700&color=00B887&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Syed+Dayyan+Noor+%F0%9F%91%8B;Frontend+Developer+at+MATZ+Solutions;Building+modern+and+responsive+web+experiences;Code+%E2%80%A2+Design+%E2%80%A2+Build+%E2%80%A2+Repeat" alt="Animated introduction"/>
@@ -18,6 +18,8 @@
 <td width="52%" valign="top">
 
 
+
+
 👨‍💻 About Me
 I'm a Frontend Developer at MATZ Solutions, passionate about building modern, responsive, and user-friendly web experiences.
 - 💼 Frontend Developer at MATZ Solutions
@@ -27,6 +29,8 @@ I'm a Frontend Developer at MATZ Solutions, passionate about building modern, re
 - 🎯 Focused on clean UI and practical projects
 </td>
 <td width="48%" valign="top">
+
+
 
 
 ⚡ Tech Stack
@@ -40,12 +44,22 @@ Frontend
 <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="Tailwind CSS"/></a>
 
 CMS & E-Commerce
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://wordpress.org/"><img src="https://cdn.simpleicons.org/wordpress/21759B" width="38" height="38" alt="WordPress"/></a><br/>WordPress
+</td>
+<td align="center" width="33%">
+<a href="https://www.shopify.com/"><img src="https://cdn.simpleicons.org/shopify/95BF47" width="38" height="38" alt="Shopify"/></a><br/>Shopify
+</td>
+<td align="center" width="33%">
+<a href="https://elementor.com/"><img src="https://cdn.simpleicons.org/elementor/92003B" width="38" height="38" alt="Elementor"/></a><br/>Elementor
+</td>
+</tr>
+</table>
 
-<a href="https://wordpress.org/"><img src="https://cdn.simpleicons.org/wordpress/21759B" width="38" height="38" alt="WordPress"/></a>  
-<a href="https://www.shopify.com/"><img src="https://cdn.simpleicons.org/shopify/95BF47" width="38" height="38" alt="Shopify"/></a>  
-<a href="https://elementor.com/"><img src="https://cdn.simpleicons.org/elementor/92003B" width="38" height="38" alt="Elementor"/></a>
 
-Tools & Workflow
+Tools
 
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="42" alt="Git"/></a>
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub"/></a>
@@ -53,23 +67,6 @@ Tools & Workflow
 </td>
 </tr>
 </table>
-
-📊 GitHub Overview
-<div align="center">
-
-<a href="https://github.com/syeddayyan1">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=syeddayyan1&show_icons=true&hide_border=true&bg_color=071411&title_color=00e5a0&icon_color=00e5a0&text_color=e6edf3&rank_icon=github" alt="GitHub stats"/>
-</a>
-<a href="https://github.com/syeddayyan1">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syeddayyan1&layout=compact&hide_border=true&bg_color=071411&title_color=00e5a0&text_color=e6edf3" alt="Top languages"/>
-</a>
-
-
-<a href="https://github.com/syeddayyan1">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=syeddayyan1&hide_border=true&background=071411&ring=00e5a0&fire=00e5a0&currStreakLabel=00e5a0&sideLabels=e6edf3&dates=9ca3af" alt="GitHub contribution streak"/>
-</a>
-
-</div>
 
 🤝 Let's Connect
 <div align="center">
