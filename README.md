@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=210&section=header&color=0:e8fff7,45:c8f7e8,100:8cebc9&text=SYED%20DAYYAN%20NOOR&fontColor=111827&fontSize=42&fontAlignY=42&desc=FRONTEND%20DEVELOPER%20%7C%20REACT%20%7C%20NEXT.JS&descAlignY=64&descSize=15&animation=fadeIn" width="100%" alt="Syed Dayyan Noor — Frontend Developer banner"/>
 </picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=700&color=00B887&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Syed+Dayyan+Noor+%F0%9F%91%8B;Frontend+Developer+at+MATZ+Solutions;Building+modern+and+responsive+web+experiences;Code+%E2%80%A2+Design+%E2%80%A2+Build+%E2%80%A2+Repeat" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=700&color=00A878&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Syed+Dayyan+Noor+%F0%9F%91%8B;Frontend+Developer+at+MATZ+Solutions;Building+modern+and+responsive+web+experiences;Code+%E2%80%A2+Design+%E2%80%A2+Build+%E2%80%A2+Repeat" alt="Animated introduction"/>
 
 
 <a href="https://www.linkedin.com/in/syed-dayyan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-00cfa0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -36,10 +36,10 @@ I'm a Frontend Developer at MATZ Solutions, passionate about building modern, re
 ⚡ Tech Stack
 Frontend
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="42" alt="HTML5"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="42" alt="CSS3"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="42" alt="HTML"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="42" alt="CSS"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="42" alt="JavaScript"/></a>
-<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="42" alt="React.js"/></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="42" alt="React"/></a>
 <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" height="42" alt="Next.js"/></a>
 <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="Tailwind CSS"/></a>
 
