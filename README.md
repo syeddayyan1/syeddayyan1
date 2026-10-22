@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey, I'm Syed Dayyan Noor 👋
 
-<!--
-**syeddayyan1/syeddayyan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Frontend Developer | React.js | Next.js | CMS Development
 
-Here are some ideas to get you started:
+I’m a Frontend Developer at **MATZ Solutions**, passionate about building modern, responsive, and user-friendly web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 💼 Frontend Developer at MATZ Solutions
+- ⚛️ Working with React.js and Next.js
+- 🌐 Experienced in WordPress, Shopify, and CMS Development
+- 📚 Continuously improving my frontend and MERN stack skills
+- 🎯 Focused on building practical projects and clean user interfaces
+
+### 🛠️ Tech Stack
+
+**Frontend:** HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS
+
+**CMS & E-Commerce:** WordPress, Shopify, Elementor
+
+**Tools:** Git, GitHub, VS Code
+
+### 📌 Featured Projects
+
+- **Attendance System** — QR-based employee attendance with location verification.
+- **Next.js E-Commerce** — E-commerce project using Next.js, React, Axios, and TanStack Query.
+- **Next.js Product Filtering** — Dynamic product filtering and product details.
+
+### 🤝 Let's Connect
+
+- 💼 LinkedIn: [Connect with me]([https://www.linkedin.com/](https://www.linkedin.com/in/syed-dayyan/))
+- 💻 GitHub: [@syeddayyan1]([https://github.com/syeddayyan1](https://github.com/syeddayyan1))
+
+---
+
+⭐ *Thanks for visiting my profile!*
