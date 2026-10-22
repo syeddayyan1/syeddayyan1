@@ -1,6 +1,6 @@
 # Hey, I'm Syed Dayyan Noor 👋
 
-### 💻 Frontend Developer | React.js | Next.js | CMS Development
+### 💻 Frontend Developer | React.js Next.js | CMS Wordpress & Shopify 
 
 I’m a Frontend Developer at **MATZ Solutions**, passionate about building modern, responsive, and user-friendly web experiences.
 
